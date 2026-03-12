@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Refeições Pet",
+  "description": "Uma ferramenta para calcular a quantidade ideal de alimento diário para cães e gatos com base no peso e nível de atividade.",
+  "requestFramePermissions": []
+}
